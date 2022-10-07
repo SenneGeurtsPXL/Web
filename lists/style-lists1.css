@@ -1,0 +1,28 @@
+/* CSS Document */
+ol{
+	background-color: crimson;
+	color: black;
+	border: 1px solid black;
+	border-radius: 10px;
+	width:25%;
+	font-family: "Rajdhani Regular";
+}
+ul{
+	background-color: yellow;
+	color: cadetblue;
+	border: 1px solid black;
+	border-radius: 10px;
+	width:25%;
+	list-style: none;
+	padding-left: 25px;
+}
+ul li:nth-child(2){
+	background-color: black;
+	border-radius: 25%
+}
+ul li:hover{
+	background-color:red;
+	border-radius
+};
+
+

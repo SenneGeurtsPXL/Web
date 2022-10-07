@@ -1,0 +1,28 @@
+/* CSS Document */
+.number1{
+	color: orange;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	background-color: aqua;
+	border-radius: 15%;
+	width:50%
+}
+.number2{
+	color: blue;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	background-color: yellow;
+	border-radius: 15%;
+	width:50%
+}
+.number3{
+	color: red;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+.number4{
+	color: pink;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.number5{
+	color: green;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
